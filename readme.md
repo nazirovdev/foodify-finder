@@ -9,6 +9,6 @@ Foodify Finder merupakan salah satu web aplikasi yang digunakan untuk mencari ma
 # Apa yang saya pelajari ?
 * Menyusun kerangka web dengan HTML 5.
 * Mengasah kemampuan styling dengan menggunkan css vanilla.
-* Mengasah kemampuan styling dengan menggunkan JS vanilla.
+* Mengasah kemampuan JS vanilla.
 * Menerapkan Custome Element.
 * Menerapkan Shadow DOM.
