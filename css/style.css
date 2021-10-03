@@ -4,11 +4,6 @@
     box-sizing: border-box;
 }
 
-::placeholder {
-    color: #1c6161;
-    font-size: 15px;
-}
-
 app-bar {
     background-color: #1c6161;
     position: fixed;
@@ -19,13 +14,6 @@ app-bar {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-app-bar h1 {
-    font-family: sans-serif;
-    color: #e7e7e7;
-    font-size: 1.5em;
-    cursor: default;
 }
 
 main {
@@ -43,48 +31,6 @@ search-bar {
     padding: 0.8em;
     box-shadow: 2px 2px 12px 2px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
-}
-
-search-bar input {
-    width: 80%;
-    outline: none;
-    border: none;
-    padding: 0.4em;
-    border-bottom: solid 1px #1c6161;
-}
-
-search-bar input:focus {
-    color: #1c6161;
-    border-bottom: solid 2px #1c6161;
-    font-size: 18px;
-}
-
-search-bar input:focus::placeholder {
-    color: #1c6161;
-    font-weight: 600;
-}
-
-search-bar button {
-    display: block;
-    width: 150px;
-    background-color: #1c6161;
-    outline: none;
-    border-style: none;
-    color: #e7e7e7;
-    text-transform: uppercase;
-    padding: 0.7em;
-    cursor: pointer;
-    font-size: 0.9em;
-    border-radius: 5px;
-    transition: 0.2s;
-}
-
-search-bar button:hover {
-    background-color: #298585;
-}
-
-search-bar button:active {
-    background-color: #1c6161;
 }
 
 food-list {
@@ -113,16 +59,16 @@ food-menu {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
 }
 
-food-menu img {
+/* food-menu img {
     width: 100%;
     height: 231px;
     display: block;
-}
+} */
 
-food-menu h1 {
+/* food-menu h1 {
     font-family: sans-serif;
     font-size: 1.5em;
     display: flex;
     justify-content: center;
     padding: 0.5em;
-}
+} */
