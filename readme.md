@@ -11,3 +11,4 @@ Foodify Finder merupakan salah satu web aplikasi yang digunakan untuk mencari ma
 * Mengasah kemampuan styling dengan menggunkan css vanilla.
 * Mengasah kemampuan styling dengan menggunkan JS vanilla.
 * Menerapkan Custome Element.
+* Menerapkan Shadow DOM.
