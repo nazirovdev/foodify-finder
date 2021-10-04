@@ -14,7 +14,6 @@ class FoodMenu extends HTMLElement {
     }
 
     render() {
-        console.log(this._shadowRoot)
         this._shadowRoot.innerHTML = `
             <style>
                 .card {

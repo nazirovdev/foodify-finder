@@ -1,7 +1,7 @@
-import AppBar from "./components/AppBar.js";
-import FoodList from "./components/FoodLists.js";
-import SearchBar from "./components/SearchBar.js";
-import DataSource from "./DataSource.js";
+import AppBar from "../components/AppBar.js";
+import FoodList from "../components/FoodLists.js";
+import SearchBar from "../components/SearchBar.js";
+import DataSource from "../data/DataSource.js";
 
 const main = () => {
     const searchBar = document.querySelector('search-bar');
